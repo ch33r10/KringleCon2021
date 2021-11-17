@@ -13,7 +13,7 @@
 
 **SOCIAL MEDIA & MORE**|**SANS**|**WORKSHOPS / TALKS**|**DISCORDS / SLACKS**
 ---|---|---|---
-#HuntingTipOfTheDay, Follow Threat Hunting Accounts EVERYWHERE - <a href="https://twitter.com/i/lists/1445402146434867206">Link</a>|Reading Room - <a href="https://www.sans.org/white-papers/">Link</a>, Webcasts - <a href="https://www.sans.org/webcasts/">Link</a> & Threat Hunting Summit|Prioritize Threat Hunting Talks/Workshops & take a look at YouTube|Join Slack/Discord related to infosec (BlueSpace has a Discord Channel - <a href="invite.gg/bluespace">Link</a>)
+#HuntingTipOfTheDay, Follow Threat Hunting Accounts EVERYWHERE - <a href="https://twitter.com/i/lists/1445402146434867206">Link</a>|Reading Room - <a href="https://www.sans.org/white-papers/">Link</a>, Webcasts - <a href="https://www.sans.org/webcasts/">Link</a> & Threat Hunting Summit|Prioritize Threat Hunting Talks/Workshops & take a look at YouTube|Join Slack/Discord related to infosec
 <p></p>
 <h3 align="left">📝<b>CH33R10'S TALK NOTES EXAMPLE</b></h3>
 <sub>I have a folder where I create a document for each conference. 
@@ -87,8 +87,8 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
  <li><b>INTERNAL vs. EXTERNAL</b>
  <ul><li>Example: Cobalt Strike Beacon Hunting in Network vs. ITW (In the Wild)</ul></li>
  <p></p>
-<p><h1 align="center">📚<b>LEARNING RESOURCES</b></h1></p>
-<p>😎<b>CHEATSHEETS</b></p>
+<p><h1 align="center">⛄<b>LEARNING RESOURCES</b></h1></p>
+<p>🔔<b>CHEATSHEETS</b></p>
   <ul>
  <li>Malware Archaeology Cheatsheets - Windows - <a href="https://www.malwarearchaeology.com/cheat-sheets">Link 1</a>, <a href="https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5d5588b51fd81f0001471db4/1565886646582/Windows+Sysmon+Logging+Cheat+Sheet_Aug_2019.pdf">Link 2</a>, Back up copy for Link 2 - <a href="https://github.com/ch33r10/BlueSpace2021/blob/main/rock/Windows%2BSysmon%2BLogging%2BCheat%2BSheet_Aug_2019.pdf">Link 3</a></li>
  <li>Olaf Hartong. Sysmon Cheatsheet - <a href="https://github.com/olafhartong/sysmon-cheatsheet/blob/master/Sysmon-Cheatsheet-dark.pdf">Link</a></li>
@@ -96,7 +96,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
   <li>SANS Intrusion Discovery for Windows Cheatsheet - <a href="https://www.sans.org/posters/intrusion-discovery-cheat-sheet-for-windows/">Link</a></li>
   </ul>
   <p></p>
-<p>🌎<b>DETECTIONS/HUNTS</b></p>
+<p>❄️<b>DETECTIONS/HUNTS</b></p>
   <ul>
   <li>BlueTeamLabs - Azure Sentinel Hunting Resource - <a href="https://github.com/BlueTeamLabs/sentinel-attack/tree/master/detections">Link</a></li>
  <li>David J. Bianco. Threat Hunting Project - Threat Hunts - <a href="https://github.com/ThreatHuntingProject/ThreatHunting/tree/master/hunts">Link</a></li>
@@ -108,7 +108,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
  <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
   </ul>
   <p></p>
-<p>🏹<b>GENERAL INFO</b></p>
+<p>🎁<b>GENERAL INFO</b></p>
 <ul>
  <li>BLOG: BC Security Offensive Security Tools - <a href="https://www.bc-security.org/post/category/offensive-security-tools/">Link</a></li>
  <li>BLOG: Red Canary - <a href="https://redcanary.com/blog/">Link</a></li>
@@ -145,6 +145,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
  <li>Questions for Infosec Job Twitter Thread - <a href="https://twitter.com/Ch33r10/status/947868048676945922?s=20">Link</a></li>
  <li>Questions to Find RED FLAGS at a Company Twitter Thread - <a href="https://twitter.com/ccieby30/status/1316040342454534144?s=20">Link</a></li>
  <li>Questions to Prepare for Trait-based Interview Questions Twitter Thread - <a href="https://twitter.com/jhencinski/status/1450252053188599814?s=20">Link</a></li>
+ <li>Questions to Prepare to ask an Organization at the end of the Interview - <a href="https://twitter.com/ImposeCost/status/1459157999600156676?s=20">Link</a></li>
  </ul>
  <p></p>
 <p">🎺<b>SANS THREAT HUNTING</b></p>
@@ -158,7 +159,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
  </ul>
   <p></p>
 <b></b>
-<p><h1 align="center">🏋️<b>TRAINING</b></h1></p>
+<p><h1 align="center">🏔️<b>TRAINING</b></h1></p>
 <ul>
   <li>Active Countermeasures - Cyber Threat Hunting Training - Cost: FREE - <a href="https://www.activecountermeasures.com/cyber-threat-hunting-training-course/">Link</a></li>
  <li>Applied Network Defense - Practical Threat Hunting - Cost: 💲 - <a href="https://www.networkdefense.co/courses/hunting/">Link</a></li>
