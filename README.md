@@ -6,6 +6,7 @@
 <h3 align="center">The Abominable Snowman's Threat Hunting Adventure</h3>
 
 <p align="center">The Abominable Snowman prepares to interview for threat hunting roles.</p>
+<p align="center">Rudolph The Red Nosed Reindeer Movie 🦌 - <a href="https://youtu.be/BctWze2UMj4">Link</a></p>
 <hr></hr>
 <p><h1 align="center">⛄<b>RESEARCH</b></h1></p>
  <p></p>
