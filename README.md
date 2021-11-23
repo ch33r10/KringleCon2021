@@ -178,6 +178,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
 <ul>
  <p>Thank you to KringleCon, SANS, & Santa! <3</p>
  <p>Shoutout to @plugxor Muchas Gracias!</p>
+ <p><b>In memory of a legend, Alan Paller</p></b>
  
 </ul> 
 <b></b>
