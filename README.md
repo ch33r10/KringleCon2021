@@ -171,6 +171,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
 <b></b>
 <p><h1 align="center">🏔️<b>TRAINING</b></h1></p>
 <ul>
+ <li>Antisyphon InfoSec Training - Some Threat Hunting related offerings - Cost: "Pay What You Can" 💲 - <a href="https://www.antisyphontraining.com/course-catalog/">Link</a></li>
   <li>Active Countermeasures - Cyber Threat Hunting Training - Cost: FREE - <a href="https://www.activecountermeasures.com/cyber-threat-hunting-training-course/">Link</a></li>
  <li>Applied Network Defense - Practical Threat Hunting - Cost: 💲 - <a href="https://www.networkdefense.co/courses/hunting/">Link</a></li>
  <li>BlueTeamLabsOnline - Cost: 💲 - <a href="https://blueteamlabs.online/">Link</a></li>
