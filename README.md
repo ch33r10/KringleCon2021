@@ -63,8 +63,16 @@ Boss of the SOC (BOTS) - <a href="https://live.splunk.com/splunk-security-datase
  <li><b>WHERE WOULD I FIND IT?</b></li>
  <li><b>WHAT'S THAT SEARCH GOING TO LOOK LIKE?</b></li></ol>
 <p></p>
-<p><h1 align="center">🎁<b>APPLY</b></h1></p>
-<h3 align="left">🔔<b>GOAL = APPLICATION</b></h3>
+<p><h1 align="center">🎁<b>PRO</b></h1></p>
+<h3 align="left">🔔<b>GOAL = PRO TIPS</b></h3>
+
+**TIME**|**QUESTIONS**|**INTEGRATION**|**FEEDBACK**
+---|---|---|---
+Time = $, so be the best MENTEE EVER!|Ask questions with a time frame and specific OUTCOMES/GOALS|Put the Pro's advice into action in your life|Let the Pro know how they have impacted your life/practice/goals
+
+<p></p>
+<p><h1 align="center">🎄<b>APPLY</b></h1></p>
+<h3 align="left">✨<b>GOAL = APPLICATION</b></h3>
 
 **MITRE ATT&CK TECHNIQUES**|**CISA / PUBLIC THREAT REPORTS**|**INFOSEC CURRENT EVENTS**
 ---|---|---
@@ -147,6 +155,7 @@ Pick a few and be able to explain them in DETAIL - <a href="https://attack.mitre
  <li>Questions to Find RED FLAGS at a Company Twitter Thread - <a href="https://twitter.com/ccieby30/status/1316040342454534144?s=20">Link</a></li>
  <li>Questions to Prepare for Trait-based Interview Questions Twitter Thread - <a href="https://twitter.com/jhencinski/status/1450252053188599814?s=20">Link</a></li>
  <li>Questions to Prepare to ask an Organization at the end of the Interview - <a href="https://twitter.com/ImposeCost/status/1459157999600156676?s=20">Link</a></li>
+ <li>Resume and Getting a Job in Infosec Tips & Tricks - <a href="https://twitter.com/litmoose/status/1467914338535153668?s=11">Link</a></li>
  </ul>
  <p></p>
 <p">🎺<b>SANS THREAT HUNTING</b></p>
